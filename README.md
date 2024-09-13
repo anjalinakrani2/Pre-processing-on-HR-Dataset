@@ -1,4 +1,4 @@
-# Pre-processing-on-HR-Dataset
+# Data Pre-processing-on-HR-Dataset
 ### pre processing of data
 ### describing the dataset
 ### getting the statistical summary, checking for missing values
